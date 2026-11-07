@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "xmas-md",
+	"version": "${version}",
+	"name": "Christmas Music Discs Fabric",
+	"description": "Used to add Christmas music discs to fabric.",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/xmas-md/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.pr55.xmasmd.ChristmasMusicDiscsFabric"
+		],
+		"fabric-datagen": [
+			"com.pr55.xmasmd.ChristmasMusicDiscsFabricDataGenerator"
+		],
+		"client": [
+			"com.pr55.xmasmd.ChristmasMusicDiscsFabricClient"
+		]
+	},
+	"mixins": [
+		"xmas-md.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.0",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:orange_dye"
+    },
+    {
+      "item": "xmas-md:empty_music_disk"
+    }
+  ],
+  "result": {
+    "id": "xmas-md:oh_come_all_ye_faithful_disk",
+    "count": 1
+  }
+}

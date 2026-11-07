@@ -1,0 +1,8 @@
+{
+  "comparator_output": 0,
+  "description": {
+    "translate": "item.xmas-md.have_yourself_a_merry_christmas.desc"
+  },
+  "length_in_seconds": 225,
+  "sound_event": "xmas-md:have_yourself_a_merry_christmas"
+}

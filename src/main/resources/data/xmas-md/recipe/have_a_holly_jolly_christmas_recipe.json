@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:green_dye"
+    },
+    {
+      "item": "xmas-md:empty_music_disk"
+    }
+  ],
+  "result": {
+    "id": "xmas-md:have_a_holly_jolly_christmas_disk",
+    "count": 1
+  }
+}

@@ -1,5 +1,8 @@
 package com.pr55.xmasmd;
 
+import com.pr55.xmasmd.item.ModItemGroups;
+import com.pr55.xmasmd.item.ModItems;
+import com.pr55.xmasmd.sound.ModSounds;
 import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.util.Identifier;
@@ -22,6 +25,9 @@ public class ChristmasMusicDiscsFabric implements ModInitializer {
 		// Proceed with mild caution.
 
 		LOGGER.info("Hello Fabric world!");
+		ModSounds.registerSounds();
+		ModItems.registerModItems();
+		ModItemGroups.registerItemGroups();
 	}
 
 	public static Identifier id(String path) {

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 0,
+  "description": {
+    "translate": "item.xmas-md.oh_come_all_ye_faithful.desc"
+  },
+  "length_in_seconds": 128,
+  "sound_event": "xmas-md:oh_come_all_ye_faithful"
+}

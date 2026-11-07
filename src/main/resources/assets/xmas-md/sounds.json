@@ -1,0 +1,74 @@
+{
+  "carol_of_the_bells": {
+    "subtitle": "subtitles.carolofthebells",
+    "sounds": [
+      {
+        "name": "xmas-md:carol-of-the-bells-christmas-classical-piano-250835",
+        "stream": true
+      }
+    ]
+  },
+  "have_yourself_a_merry_christmas": {
+    "subtitle": "subtitles.haveyourselfamerrychristmas",
+    "sounds": [
+      {
+        "name": "xmas-md:christmas-piano-have-yourself-a-merry-little-christmas-248559",
+        "stream": true
+      }
+    ]
+  },
+  "feliz_navidad": {
+    "subtitle": "subtitles.feliznavidad",
+    "sounds": [
+      {
+        "name": "xmas-md:feliz-navidad-248550",
+        "stream": true
+      }
+    ]
+  },
+  "ill_be_home_for_christmas": {
+    "subtitle": "subtitles.illbehomeforchristmas",
+    "sounds": [
+      {
+        "name": "xmas-md:ix27ll-be-home-for-christmas-classical-piano-248549",
+        "stream": true
+      }
+    ]
+  },
+  "oh_come_all_ye_faithful": {
+    "subtitle": "subtitles.ocomeallyefaithful",
+    "sounds": [
+      {
+        "name": "xmas-md:o-come-all-ye-faithful-worship-christmas-piano-248548",
+        "stream": true
+      }
+    ]
+  },
+  "we_wish_you_a_merry_christmas": {
+    "subtitle": "subtitles.wewishyouamerrychristmas",
+    "sounds": [
+      {
+        "name": "xmas-md:calm-christmas-piano-262888",
+        "stream": true
+      }
+    ]
+  },
+  "white_christmas": {
+    "subtitle": "subtitles.whitechristmas",
+    "sounds": [
+      {
+        "name": "xmas-md:jazz-piano-arrangement-of-white-christmas-250836",
+        "stream": true
+      }
+    ]
+  },
+  "have_a_holly_jolly_christmas": {
+    "subtitle": "subtitles.haveahollyjollychristmas",
+    "sounds": [
+      {
+        "name": "xmas-md:warm-and-soft-christmas-piano-instrumental-250832",
+        "stream": true
+      }
+    ]
+  }
+}

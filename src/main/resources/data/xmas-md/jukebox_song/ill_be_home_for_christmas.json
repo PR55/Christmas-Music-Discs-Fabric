@@ -1,0 +1,8 @@
+{
+  "comparator_output": 0,
+  "description": {
+    "translate": "item.xmas-md.ill_be_home_for_christmas.desc"
+  },
+  "length_in_seconds": 128,
+  "sound_event": "xmas-md:ill_be_home_for_christmas"
+}

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 0,
+  "description": {
+    "translate": "item.xmas-md.have_a_holly_jolly_christmas.desc"
+  },
+  "length_in_seconds": 110,
+  "sound_event": "xmas-md:have_a_holly_jolly_christmas"
+}
